@@ -1,0 +1,9 @@
+---
+# do not touch /!\
+version: 1.0.0
+
+# id:meta
+# Infinite config
+craft:
+  "317:0": "§c§lYou cannot craft this item !"
+...
